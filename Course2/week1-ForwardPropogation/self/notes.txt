@@ -1,0 +1,16 @@
+    Training Data: Imagine you have a big stack of flashcards, each with a question on one side and the answer on the other. 
+    This stack represents your training data.
+
+    Epoch: Going through the entire stack of flashcards once is like completing one epoch. 
+    So, if you go through the entire stack of flashcards three times, you've completed three epochs.
+
+    Batch: Instead of looking at all the flashcards at once, you might find it easier to study in smaller groups. 
+    Each of these smaller groups is a batch. For example, if you have 100 flashcards and you study them in groups of 10, you have 10 batches.
+
+    Iteration: Going through one batch is like completing one iteration. 
+    So, if you have 10 batches and you go through each one once, you've completed 10 iterations, which is one epoch.
+
+In summary, an epoch is like completing a full pass through all your study material (training data), 
+and the number of epochs tells you how many times you want to go through that material. 
+Batches are just smaller groups you use to make the learning process more manageable, 
+and iterations are the number of times you go through one of these smaller groups.
