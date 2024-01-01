@@ -40,3 +40,6 @@ print(p_nonpreferred [:2])
 print("largest value", np.max(p_nonpreferred), "smallest value", np.min(p_nonpreferred))
 
 #  The output ranges from 1 to 0, ranging from near 1 to extremely small near 0 values
+
+predicted_classes = np.argmax(p_nonpreferred, axis=1)
+print("Predicted Classes:", predicted_classes)
