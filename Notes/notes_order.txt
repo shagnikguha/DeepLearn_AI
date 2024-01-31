@@ -2,4 +2,4 @@
 2. NN notes, basic about NN creation and theory behind it.
 3. Bias and Variance to evaluate a DL Model
 4. ML Development Cycle, Error Anaysis and Transfer Learning
-4. Decision Trees
+5. Decision Trees
