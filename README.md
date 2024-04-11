@@ -1,2 +1,2 @@
 # DeepLearn_AI
-Code I wrote to learn ML while following Stanford's DeepLearning course
+Code I wrote to learn ML and NN while following Stanford's DeepLearning course
