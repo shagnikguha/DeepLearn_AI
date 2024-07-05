@@ -3,3 +3,4 @@
 3. Bias and Variance to evaluate a DL Model
 4. ML Development Cycle, Error Anaysis and Transfer Learning
 5. Decision Trees
+6. Unsupervised Learning
